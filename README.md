@@ -1,1 +1,1 @@
-# Java_winter_camp
+# JavaAssignment
